@@ -1,0 +1,17 @@
+Eu  acrendi que o github e o maior  servidor  da nuvem do mundo ,                      Ou seja, através dele nos desenvolvedores vamos criar os nossos projetos e jogar no git assim facilita para que outros desenvolvedores que esta trambalhando com você veja e aj na construção do projeto.  
+principais comandos
+Copiar um repositório:
+Git cloneCriar um repositório local:
+Git init 
+Mudanças locais:
+Git status 
+Git diff 
+Git add
+Git add -p<file>
+Git commit -a
+Branches:
+Git branch
+Git checkout <branch>
+Git checkout <new-branch>
+
+
